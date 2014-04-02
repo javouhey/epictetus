@@ -13,11 +13,11 @@ $ go install github.com/javouhey/epictetus
 
 # windows
 
-Create the directory src/github.com/javouhey
-change directory to `javouhey`
+* Create the directory src/github.com/javouhey
+* change directory to `javouhey`
 
 ```bash
 $ mklink /D epictetus ..\..\..
 ```
 
-Same as above 
+* Same as above 
