@@ -10,6 +10,7 @@ bin
 pkg
 src
 epictetus
+pics
 
 # Architecture specific extensions/prefixes
 *.[568vq]
