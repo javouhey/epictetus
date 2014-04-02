@@ -1,0 +1,6 @@
+mkdir -p src/github.com/javouhey
+ln -s ../../.. src/github.com/javouhey/epictetus
+
+$ go build
+
+$ export GOPATH=${PWD}
