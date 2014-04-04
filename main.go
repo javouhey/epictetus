@@ -34,5 +34,5 @@ func main() {
     // compile error - truncation
     //fmt.Printf(stoic.Quote(1234.56))
 
-    fmt.Println("v2 commit #1")
+    fmt.Println("Change after added as submodule to seneca (fun)")
 }
